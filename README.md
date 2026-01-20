@@ -1,4 +1,4 @@
-# Sales Data Analytics System
+# Aditya Singh Sales Analytics Assignment
 
 ## Overview
 This system processes sales data, generates analytics, fetches product details from an external API, and produces a comprehensive report.
